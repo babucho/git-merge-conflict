@@ -16,4 +16,10 @@ feature1()
   printf("This is a feature1");
 }
 
+feature2()
+{
+  //Sample Code for Feature2
+  printf("This is a feature2");
+}
+
 }
